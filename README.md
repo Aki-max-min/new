@@ -1,1 +1,1 @@
-Basic Hand recognition sysetm
+Basic Hand recognition system
